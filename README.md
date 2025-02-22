@@ -1,5 +1,4 @@
 # Dissertation-RCode-Data
-R studio code and Data used for my research project data analysis
 
 Hello!
 This repository contains all the data I recorded from the analysed sonograms as well as the code I used to analyse it and create the graphs for my paper.
